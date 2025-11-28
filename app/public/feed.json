@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Phase 0: Getting the House in Order",
+    "body": "Laying groundwork: folder structure, scripts, and the decision to build in the open."
+  },
+  {
+    "id": 2,
+    "title": "Phase 1: First Working Feed",
+    "body": "Hooking up a simple feed reader using React, Vite, and a static JSON file as a stand-in for a real API."
+  },
+  {
+    "id": 3,
+    "title": "Future Phase: Real Backend",
+    "body": "This slot is reserved for the day a proper API shows up behind this thing."
+  }
+]
